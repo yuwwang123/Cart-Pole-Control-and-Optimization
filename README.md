@@ -11,4 +11,4 @@ Partial feedback linearization is used and a lyapunov function is defined to dri
 
 #Method 2: Direct Collacation
 Trajectory optimization using direct collocation to minimize the total control effort, resulting in a much more efficient manuever. 
-![](Direct Collocation/test_dc.gif)
+![](Trajectory Optimization/test_dc.gif)
